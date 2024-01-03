@@ -9,6 +9,7 @@ Gradient Boosting, Lasso, and ARIMA. The choice of modeling technique was determ
 the data and the specific business context.
 
 Key Findings:
+
 • Data Preprocessing & Exploratory Data Analysis:
 
 • Majority of BIG W sales are from physical store channels.
@@ -22,12 +23,14 @@ Key Findings:
 • Budget-Young Families category emerged as the highest contributor to sales.
 
 Model Evaluation:
+
 • The Gradient Boosting Model demonstrated the best performance among the traditional machine
 learning models, with an R2 value of 0.619631 and RMSE of 0.867222.
 
 • The ARIMA model, suited for time series data, had an RMSE of 0.284, indicating high accuracy.
 
 Recommendations:
+
 • Allocate the advertising budget more strategically to align with the specific consumption habits of
 different regions.
 
