@@ -10,22 +10,30 @@ the data and the specific business context.
 
 Key Findings:
 • Data Preprocessing & Exploratory Data Analysis:
+
 • Majority of BIG W sales are from physical store channels.
+
 • Positive relationship observed between media spend and total sale value in each state.
+
 • Proximity to competitors like Kmart and Target has a varied impact on sales.
+
 • Seasonal peaks in sales observed during the Christmas season.
+
 • Budget-Young Families category emerged as the highest contributor to sales.
 
 Model Evaluation:
 • The Gradient Boosting Model demonstrated the best performance among the traditional machine
 learning models, with an R2 value of 0.619631 and RMSE of 0.867222.
+
 • The ARIMA model, suited for time series data, had an RMSE of 0.284, indicating high accuracy.
 
 Recommendations:
 • Allocate the advertising budget more strategically to align with the specific consumption habits of
 different regions.
+
 • Explore the possibility of opening new stores in the VIC region, especially in locations near
 competitors like Kmart and Target.
+
 • Strengthen product and promotional strategies targeting the Budget-Young Families segment. For
 the Premium-Older Families segment, delve deeper into their preferences and purchasing
 behaviors.
